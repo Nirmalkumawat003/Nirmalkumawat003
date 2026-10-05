@@ -1,33 +1,39 @@
 <h1 align="center">Hi 👋, I'm Nirmal Kumawat!</h1>
 
-<h3 align="center">Java Developer | Backend Developer | AI/ML Enthusiast</h3>
+<h3 align="center">AI/ML Engineer | Software Engineer | Generative AI Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 * 🎓 B.Tech in Computer Science & Engineering (AI & ML) @ MLR Institute of Technology | CGPA: **9.19**
-* 💻 Interested in **Java, Backend Development, Software Engineering, and Infrastructure**
-* ☕ Currently strengthening my skills in **Core Java, Spring Boot, REST APIs, and SQL**
-* 🧠 Experienced with **Python, TensorFlow, React, Flutter, and backend API development**
+* 💻 Interested in **AI/ML, Generative AI, Software Engineering, Backend Development, and AI Agents**
+* 🤖 Building and exploring **LLM-powered applications and multi-agent AI systems**
+* ☕ Strengthening my skills in **Java, Python, Spring Boot, REST APIs, and SQL**
+* 🧠 Experienced with **Python, TensorFlow, LangChain, LLMs, Node.js, React, and backend API development**
 * 🔧 Backend Developer Intern with experience in **REST APIs, MQTT, API integration, unit testing, and technical documentation**
-* 🌱 Currently learning **Spring Boot, PostgreSQL, Spring Security, and backend system design**
-* 💬 Ask me about: `Java`, `Python`, `REST APIs`, `SQL`, `TensorFlow`
+* 🌱 Currently learning **Generative AI, LLMs, AI Agents, Spring Boot, PostgreSQL, and backend system design**
+* 💬 Ask me about: `Java`, `Python`, `LLMs`, `LangChain`, `REST APIs`, `SQL`, `TensorFlow`
 * 📫 Reach me at: **[nirmalkumawat2003nk@gmail.com](mailto:nirmalkumawat2003nk@gmail.com)**
 
 ---
 
 ### 🚀 Projects
 
+* 🤖 **Agenix - Multi-Agent AI Framework for Meeting Analysis**
+  <sub><sup>→ Multi-agent AI system using LLMs, Whisper, LangChain, and LangSmith to convert meeting conversations into structured tasks, deadlines, and assignees.</sup></sub>  
+  👉 [Project Details](#)
 
-
-* 🔐 **SecureVision - Deepfake Detection** <sub><sup>→ Deep learning system using InceptionResNet + MTCNN, improving detection accuracy from 80% to 86%.</sup></sub>
+* 🔐 **SecureVision - Deepfake Detection**
+  <sub><sup>→ Deep learning system using InceptionResNet + MTCNN, improving detection accuracy from 80% to 86%.</sup></sub>  
   👉 [GitHub Repo](https://github.com/Nirmalkumawat003/SecureVision-Deepfake-Detection)
 
-* 📱 **PermitEase** <sub><sup>→ Permission management application built using Flutter and Firebase with QR-based verification.</sup></sub>
+* 📱 **PermitEase**
+  <sub><sup>→ Permission management application built using Flutter and Firebase with QR-based verification.</sup></sub>  
   👉 [GitHub Repo](https://github.com/Nirmalkumawat003/Permitease)
 
-* 🛒 **FastCart - Smart Billing App** <sub><sup>→ Smart billing application using barcode scanning and UPI integration to streamline grocery checkout.</sup></sub>
+* 🛒 **FastCart - Smart Billing App**
+  <sub><sup>→ Smart billing application using barcode scanning and UPI integration to streamline grocery checkout.</sup></sub>  
   👉 [GitHub Repo](https://github.com/Nirmalkumawat003/Fastcart-nirmal)
 
 ---
@@ -51,28 +57,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 
 </p>
+
+**AI & Generative AI:** LLMs · OpenAI API · Google Generative AI · LangChain · LangSmith · NLP · Hugging Face Transformers · Whisper
 
 **Core CS:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
 
@@ -80,7 +80,7 @@
 
 **Databases:** PostgreSQL · MySQL · MongoDB · Firebase · PostGIS
 
-**Tools:** Git · GitHub · Maven
+**Tools:** Git · GitHub · Maven · VS Code · Jupyter Notebook
 
 ---
 
@@ -88,9 +88,9 @@
 
 * ✅ Data Structures & Algorithms Using Java — **NPTEL**
 * ✅ Data Structures & Algorithms Java — **Smart Interviews**
+* ✅ Generative AI & LLM — **IEEE Hyderabad Summer School**
 * ✅ Google Cloud Computing Foundations: ML & AI in Google Cloud — **Google**
 * ✅ Programming Essentials in Python — **Cisco**
-* ✅ Generative AI & LLM — **IEEE Hyderabad Summer School**
 
 ---
 
@@ -120,4 +120,4 @@
 
 ---
 
-> *“Building reliable software, one system at a time.”* 🚀
+> *“Building reliable software and intelligent systems, one project at a time.”* 🚀
